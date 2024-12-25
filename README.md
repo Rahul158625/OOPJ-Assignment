@@ -121,3 +121,6 @@ Future Improvements:
     Add authentication for admin and user accounts.
     Enable book search functionality in the User Panel.
     Allow users to bookmark pages in the PDF viewer.
+
+Demo link>>
+https://youtu.be/uCvg2nZWP6g?si=eUjsCOcxpXAx92jg
